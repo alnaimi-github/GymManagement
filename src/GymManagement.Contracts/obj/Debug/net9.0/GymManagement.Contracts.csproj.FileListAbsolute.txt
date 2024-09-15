@@ -1,0 +1,11 @@
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\bin\Debug\net9.0\GymManagement.Contracts.deps.json
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\bin\Debug\net9.0\GymManagement.Contracts.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\bin\Debug\net9.0\GymManagement.Contracts.pdb
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.AssemblyInfoInputs.cache
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.AssemblyInfo.cs
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.csproj.CoreCompileInputs.cache
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\refint\GymManagement.Contracts.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.pdb
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Contracts\obj\Debug\net9.0\ref\GymManagement.Contracts.dll

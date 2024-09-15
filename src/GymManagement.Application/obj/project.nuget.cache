@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbRD4Js2ZwQ=",
+  "success": true,
+  "projectFilePath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ag\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\ag\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

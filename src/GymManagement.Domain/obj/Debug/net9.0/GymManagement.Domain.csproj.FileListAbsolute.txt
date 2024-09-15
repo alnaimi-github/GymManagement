@@ -1,0 +1,11 @@
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\bin\Debug\net9.0\GymManagement.Domain.deps.json
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\bin\Debug\net9.0\GymManagement.Domain.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\bin\Debug\net9.0\GymManagement.Domain.pdb
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.AssemblyInfoInputs.cache
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.AssemblyInfo.cs
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\refint\GymManagement.Domain.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.pdb
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\ref\GymManagement.Domain.dll
