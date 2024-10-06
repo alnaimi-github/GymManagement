@@ -1,8 +1,8 @@
-@host=http://localhost:5238
+@host=https://localhost:7002
 
-@adminId=123e4567-e89b-12d3-a456-426614174000
+@adminId=2150E333-8FDC-42A3-9474-1A3956D46DE8
 
-POST {{host}}/api/subscriptions
+POST {{host}}/subscriptions
 Content-Type: application/json
 
 {

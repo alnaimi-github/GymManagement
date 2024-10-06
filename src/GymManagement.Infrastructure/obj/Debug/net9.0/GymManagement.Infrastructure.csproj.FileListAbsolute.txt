@@ -15,3 +15,6 @@ F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\G
 F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Infrastructure\obj\Debug\net9.0\refint\GymManagement.Infrastructure.dll
 F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Infrastructure\obj\Debug\net9.0\GymManagement.Infrastructure.pdb
 F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Infrastructure\obj\Debug\net9.0\ref\GymManagement.Infrastructure.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Infrastructure\obj\Debug\net9.0\GymManagement.Infrastructure.sourcelink.json
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Infrastructure\bin\Debug\net9.0\GymManagement.Infrastructure.runtimeconfig.json
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Infrastructure\obj\Debug\net9.0\GymManagement.Infrastructure.genruntimeconfig.cache

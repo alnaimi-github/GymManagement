@@ -1,0 +1,4 @@
+@host=https://localhost:7002
+@subscriptionId=92248786-2C03-4AC4-90BA-740813FB8E6A
+
+DELETE {{host}}/subscriptions/{{subscriptionId}}

@@ -1,0 +1,6 @@
+@host=https://localhost:7002
+
+@subscriptionId=4DFAB8D1-AF63-4FFC-9F5C-118BF97F9234	
+
+
+GET {{host}}/subscriptions/{{subscriptionId}}

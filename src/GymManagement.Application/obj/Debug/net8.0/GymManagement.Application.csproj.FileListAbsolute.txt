@@ -1,0 +1,32 @@
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.deps.json
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.pdb
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Domain.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Domain.pdb
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.csproj.AssemblyReference.cache
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.AssemblyInfoInputs.cache
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.AssemblyInfo.cs
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.csproj.CoreCompileInputs.cache
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.sourcelink.json
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManag.E831DFE7.Up2Date
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\refint\GymManagement.Application.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.pdb
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\ref\GymManagement.Application.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.deps.json
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Domain.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\bin\Debug\net8.0\GymManagement.Domain.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.csproj.AssemblyReference.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.AssemblyInfoInputs.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.AssemblyInfo.cs
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.csproj.CoreCompileInputs.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.sourcelink.json
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManag.E831DFE7.Up2Date
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\refint\GymManagement.Application.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\src\GymManagement.Application\obj\Debug\net8.0\ref\GymManagement.Application.dll

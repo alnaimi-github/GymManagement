@@ -8,12 +8,21 @@
     ".NETCoreApp,Version=v9.0": {
       "GymManagement.Application/1.0.0": {
         "dependencies": {
+          "ErrorOr": "2.0.1",
           "GymManagement.Domain": "1.0.0",
           "MediatR": "12.4.1",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
         },
         "runtime": {
           "GymManagement.Application.dll": {}
+        }
+      },
+      "ErrorOr/2.0.1": {
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
         }
       },
       "MediatR/12.4.1": {
@@ -59,6 +68,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "ErrorOr/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aje9lUVEAsusPFmaRcVM5EUqWBofd7hYtb9N8+ycgPYrtOzyFajMpzRgIO4uuiCllNLBc3x48+cpA+4v4koUDQ==",
+      "path": "erroror/2.0.1",
+      "hashPath": "erroror.2.0.1.nupkg.sha512"
     },
     "MediatR/12.4.1": {
       "type": "package",

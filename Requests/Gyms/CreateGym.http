@@ -1,0 +1,13 @@
+@host=https://localhost:7002
+@subscriptionId=07b88caf-9788-4ab5-afff-29d0340d921e
+
+POST {{host}}/subscriptions/{{subscriptionId}}/gyms
+Content-Type: application/json
+
+{
+    "Name": "Msarah"
+}
+
+###
+
+http://localhost:5238/subscriptions/51b5d6fd-75fe-44d9-a56f-2dcde66fad56/gyms/59bf64b3-fee6-4403-9631-d1a4f57cb032

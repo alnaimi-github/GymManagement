@@ -1,0 +1,5 @@
+@host=https://localhost:7002
+@subscriptionId=49e0784f-755b-4ad4-a5d1-95d81916332d
+@gymId=bef93292-ecdf-4304-897d-346464a4bbe7
+
+DELETE {{host}}/subscriptions/{{subscriptionId}}/gyms/{{gymId}}

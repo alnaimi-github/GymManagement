@@ -9,3 +9,4 @@ F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\G
 F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\refint\GymManagement.Domain.dll
 F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.pdb
 F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\ref\GymManagement.Domain.dll
+F:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.sourcelink.json

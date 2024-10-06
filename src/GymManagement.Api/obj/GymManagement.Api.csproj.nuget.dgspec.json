@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj": {}
+    "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj": {}
   },
   "projects": {
-    "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj": {
+    "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj",
+        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj",
         "projectName": "GymManagement.Api",
-        "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj",
+        "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\GymManagement.Api.csproj",
         "packagesPath": "C:\\Users\\ag\\.nuget\\packages\\",
-        "outputPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\obj\\",
+        "outputPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,17 +26,17 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
-                "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj"
+              "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
+                "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj"
               },
-              "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
-                "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
+              "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+                "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
               },
-              "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj": {
-                "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj"
+              "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj": {
+                "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj"
               }
             }
           }
@@ -54,12 +54,22 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.AspNetCore.Authorization": {
               "target": "Package",
-              "version": "[9.0.0-preview.7.24406.2, )"
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -85,21 +95,21 @@
         }
       }
     },
-    "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
+    "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj",
+        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj",
         "projectName": "GymManagement.Application",
-        "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj",
+        "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj",
         "packagesPath": "C:\\Users\\ag\\.nuget\\packages\\",
-        "outputPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\obj\\",
+        "outputPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -107,11 +117,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj": {
-                "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj"
+              "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj": {
+                "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj"
               }
             }
           }
@@ -129,9 +139,21 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )"
@@ -161,21 +183,21 @@
         }
       }
     },
-    "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+    "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
         "projectName": "GymManagement.Contracts",
-        "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
         "packagesPath": "C:\\Users\\ag\\.nuget\\packages\\",
-        "outputPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\obj\\",
+        "outputPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -183,8 +205,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -201,8 +223,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -223,21 +245,21 @@
         }
       }
     },
-    "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj": {
+    "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj",
+        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj",
         "projectName": "GymManagement.Domain",
-        "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj",
+        "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\GymManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\ag\\.nuget\\packages\\",
-        "outputPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\obj\\",
+        "outputPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -245,8 +267,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -263,8 +285,26 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Throw": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -285,21 +325,21 @@
         }
       }
     },
-    "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj": {
+    "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
+        "projectUniqueName": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
         "projectName": "GymManagement.Infrastructure",
-        "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
+        "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ag\\.nuget\\packages\\",
-        "outputPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\obj\\",
+        "outputPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -307,11 +347,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
-                "projectPath": "F:\\My University\\Level Three\\.NET\\VS 2022\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj"
+              "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
+                "projectPath": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application\\GymManagement.Application.csproj"
               }
             }
           }
@@ -329,8 +369,36 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
