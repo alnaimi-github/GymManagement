@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58dc6a34_002Dc7a1_002D47d5_002Da57b_002Db7f40824dfc5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Not&gt;&#xD;
+      &lt;Or&gt;&#xD;
+        &lt;Project Location="F:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Api.IntegrationTests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;GymManagement.Api.IntegrationTests&amp;gt;" /&gt;&#xD;
+        &lt;Project Location="F:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.SubcutaneousTests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;GymManagement.Application.SubcutaneousTests&amp;gt;" /&gt;&#xD;
+      &lt;/Or&gt;&#xD;
+    &lt;/Not&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::66A3D6F2-ED42-409D-8F6D-6BCF46CA74E5::net8.0::GymManagement.Api.IntegrationTests.Controllers.CreateSubscriptionTests.CreateSubscription_WhenValidSubscription_ShouldCreateSubscription&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

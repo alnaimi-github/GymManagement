@@ -1,0 +1,36 @@
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\TestCommon.deps.json
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\TestCommon.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\TestCommon.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Domain.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Domain.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.csproj.AssemblyReference.cache
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.GeneratedMSBuildEditorConfig.editorconfig
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfoInputs.cache
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfo.cs
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.csproj.CoreCompileInputs.cache
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.sourcelink.json
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.csproj.Up2Date
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\refint\TestCommon.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\ref\TestCommon.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Application.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Application.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.csproj.AssemblyReference.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.GeneratedMSBuildEditorConfig.editorconfig
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfoInputs.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.AssemblyInfo.cs
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.csproj.CoreCompileInputs.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.sourcelink.json
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\refint\TestCommon.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\TestCommon.deps.json
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\TestCommon.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\TestCommon.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Application.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Domain.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Domain.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\bin\Debug\net8.0\GymManagement.Application.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\TestCommon.csproj.Up2Date
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\TestCommon\obj\Debug\net8.0\ref\TestCommon.dll

@@ -1,0 +1,244 @@
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_GymManagement.Application.UnitTests
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.csproj.AssemblyReference.cache
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.AssemblyInfoInputs.cache
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.AssemblyInfo.cs
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.csproj.CoreCompileInputs.cache
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.sourcelink.json
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\testhost.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\testhost.exe
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.deps.json
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.runtimeconfig.json
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Ardalis.SmartEnum.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Castle.Core.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ErrorOr.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentAssertions.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentValidation.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\MediatR.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\MediatR.Contracts.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\NSubstitute.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\OneOf.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Throw.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.abstractions.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.assert.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.core.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Domain.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\TestCommon.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\TestCommon.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Domain.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManag.4A04ABB7.Up2Date
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\refint\GymManagement.Application.UnitTests.dll
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.pdb
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.genruntimeconfig.cache
+f:\My University\Level Three\.NET\VS 2022\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\ref\GymManagement.Application.UnitTests.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\refint\GymManagement.Application.UnitTests.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_GymManagement.Application.UnitTests
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\testhost.exe
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\testhost.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.deps.json
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.runtimeconfig.json
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.UnitTests.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Ardalis.SmartEnum.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Castle.Core.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ErrorOr.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentAssertions.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentValidation.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\MediatR.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\MediatR.Contracts.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\NSubstitute.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\OneOf.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\Throw.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.abstractions.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.assert.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.core.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Domain.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\TestCommon.dll
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Application.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\TestCommon.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\bin\Debug\net8.0\GymManagement.Domain.pdb
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.csproj.AssemblyReference.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.AssemblyInfoInputs.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.AssemblyInfo.cs
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.csproj.CoreCompileInputs.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.sourcelink.json
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManag.4A04ABB7.Up2Date
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\GymManagement.Application.UnitTests.genruntimeconfig.cache
+f:\My University\Level Three\.NET\Clean Architecture\GymManagement\tests\GymManagement.Application.UnitTests\obj\Debug\net8.0\ref\GymManagement.Application.UnitTests.dll

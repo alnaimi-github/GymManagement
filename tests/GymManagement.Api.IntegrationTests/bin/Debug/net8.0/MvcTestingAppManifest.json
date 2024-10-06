@@ -1,0 +1,8 @@
+{
+  "GymManagement.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Api",
+  "GymManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Application",
+  "GymManagement.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Contracts",
+  "GymManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Domain",
+  "GymManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\src\\GymManagement.Infrastructure",
+  "TestCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\My University\\Level Three\\.NET\\Clean Architecture\\GymManagement\\tests\\TestCommon"
+}
